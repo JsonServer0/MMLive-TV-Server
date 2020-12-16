@@ -1,6 +1,6 @@
 {
   "uses": true,
   "version": "1.0.0",
-  "updateMsg": "This is uses message",
+  "updateMsg": "This is uses message is edited",
   "versionMsg": "Your version is up to date."
 }
