@@ -1,0 +1,147 @@
+[
+  {
+    "title": "MRTV-4",
+    "image": "http://cdn.mmplay.live/images/1529908351173.jpg",
+    "m3u": "https://5a13fe32ef748.streamlock.net/mmplay/mrtv-4/playlist.m3u8"
+  },
+  {
+    "title": "5 Plus",
+    "image": "http://cdn.mmplay.live/images/1529908305795.jpg",
+    "m3u": "https://5a13fe32ef748.streamlock.net/mmplay/5plus/playlist.m3u8"
+  },
+  {
+    "title": "Channel 7",
+    "image": "http://cdn.mmplay.live/images/1529908313082.jpg",
+    "m3u": "https://5a13fe32ef748.streamlock.net/mmplay/channel7/playlist.m3u8"
+  },
+  {
+    "title": "Channel 9",
+    "image": "http://cdn.mmplay.live/images/1529908319625.jpg",
+    "m3u": "https://5a13fe32ef748.streamlock.net/mmplay/channel9/playlist.m3u8"
+  },
+  {
+    "title": "Channel K",
+    "image": "https://lh3.googleusercontent.com/-zhapfH-LuX4/X9j0HzMMT7I/AAAAAAAAASQ/k-wda0o6LQIfMx3TIlTxhkPrKLytufbAACNcBGAsYHQ/s1600/1608053787870245-2.png",
+    "m3u": "https://d3cs5y5559s57s.cloudfront.net/live/channelk.m3u8"
+  },
+  {
+    "title": "MITV",
+    "image": "http://cdn.mmplay.live/images/1529908334556.jpg",
+    "m3u": "https://5a13fe32ef748.streamlock.net/mmplay/mitv/playlist.m3u8"
+  },
+  {
+    "title": "MRTV Entertainment",
+    "image": "http://cdn.mmplay.live/images/1529908340340.jpg",
+    "m3u": "https://5a13fe32ef748.streamlock.net/mmplay/mrtv-entertainment/playlist.m3u8"
+  },
+  {
+    "title": "MRTV 1",
+    "image": "http://cdn.mmplay.live/images/1529908345715.jpg",
+    "m3u": "https://5a13fe32ef748.streamlock.net/mmplay/mrtv/playlist.m3u8"
+  },
+  {
+    "title": "MRTV 2",
+    "image": "http://cdn.mmplay.live/images/1529908345715.jpg",
+    "m3u": "http://cdn-edge.otv.co.th/mmplay/mrtv/playlist.m3u8"
+  },
+  {
+    "title": "MNTV",
+    "image": "http://cdn.mmplay.live/images/1529908296874.jpg",
+    "m3u": "https://5a13fe32ef748.streamlock.net/mmplay/mntv/playlist.m3u8"
+  },
+  {
+    "title": "Hluttaw",
+    "image": "http://cdn.mmplay.live/images/1568965869116.jpg",
+    "m3u": "https://5a13fe32ef748.streamlock.net/mmplay/hluttaw/playlist.m3u8"
+  },
+  {
+    "title": "DVB 1",
+    "image": "http://cdn.mmplay.live/images/1567657735326.jpg",
+    "m3u": "https://5a13fe32ef748.streamlock.net/mmplay/dvb/playlist.m3u8"
+  },
+  {
+    "title": "DVB 2",
+    "image": "http://cdn.mmplay.live/images/1567657735326.jpg",
+    "m3u": "https://l1-xl1.myanmarnet.com/relay/dvb/ch1/stream.m3u8"
+  },
+  {
+    "title": "DVB 3",
+    "image": "http://cdn.mmplay.live/images/1567657735326.jpg",
+    "m3u": "http://cdn-edge.otv.co.th/mmplay/dvb/playlist.m3u8"
+  },
+  {
+    "title": "Mahar",
+    "image": "https://lh3.googleusercontent.com/-9GCBZZ262BU/X9j0Gyq0y8I/AAAAAAAAASM/lfYtZVx4IvEytHIgFFjrg-WcRVsQYtYJwCNcBGAsYHQ/s1600/1608053784508008-3.png",
+    "m3u": "https://d2e3tk355loocn.cloudfront.net/stream.m3u8"
+  },
+  {
+    "title": "Fortune",
+    "image": "https://lh3.googleusercontent.com/-IwUMplzeHPo/X9j0GEXm7RI/AAAAAAAAASI/9QkeWZYMUFg0uPTqFP-5QAaZp6kHi1n8QCNcBGAsYHQ/s1600/1608053781139376-4.png",
+    "m3u": "http://live-aec.sky-cdn.com/aec_live/Fortune.stream_360p/chunklist_w1408103827.m3u8"
+  },
+  {
+    "title": "Cookie",
+    "image": "https://lh3.googleusercontent.com/-L6A3iP3_hj4/X9j0A4TZKxI/AAAAAAAAARw/31u2hz9ohNoK9uPPOrJ1o_MAuzZhBS4JgCNcBGAsYHQ/s1600/1608053759909455-10.png",
+    "m3u": "https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:4984fdb7-86ac-4214-8572-98a4d63aa369_service/playlist.m3u8"
+  },
+  {
+    "title": "Cookie Asia",
+    "image": "https://lh3.googleusercontent.com/-L6A3iP3_hj4/X9j0A4TZKxI/AAAAAAAAARw/31u2hz9ohNoK9uPPOrJ1o_MAuzZhBS4JgCNcBGAsYHQ/s1600/1608053759909455-10.png",
+    "m3u": "https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:c2c4c9be-de30-4059-a430-dac9ed238eac_service/playlist.m3u8"
+  },
+  {
+    "title": "Mizzima",
+    "image": "https://lh3.googleusercontent.com/-sQxjuu8jsts/X9j0FTFfnNI/AAAAAAAAASE/nsAUQINDVl0kFFOSHdfeznHpvSEvqd3OQCNcBGAsYHQ/s1600/1608053777863894-5.png",
+    "m3u": "https://l1-xl1.myanmarnet.com/relay/mizzima/ch1/stream.m3u8"
+  },
+  {
+    "title": "MRTV Entertainment(Channel Me)",
+    "image": "https://lh3.googleusercontent.com/-mWfzV_22y_I/X9j0IuGkCvI/AAAAAAAAASU/zTc35lFGwGopaNKM-ff46M_Ako9G6tagwCNcBGAsYHQ/s1600/1608053791148581-1.png",
+    "m3u": "https://d39q34kqnktegw.cloudfront.net/live/37200273-aa1b-42a3-90c9-2c33906df915/prod/gidlean/progress-playlist.m3u8"
+  },
+  {
+    "title": "MWD",
+    "image": "https://lh3.googleusercontent.com/-lDIJMVcEf0w/X9j7YMgInuI/AAAAAAAAATA/eNUsGZJzV94bs5dPN2Y2yMqk3vfZgdafQCNcBGAsYHQ/s1600/1608055645055291-1.png",
+    "m3u": "http://203.81.84.130/hls/mwd/index.m3u8"
+  },
+  {
+    "title": "MWD Documentary",
+    "image": "https://lh3.googleusercontent.com/-AM6l201DSHU/X9j7XAo18WI/AAAAAAAAAS8/0CIciQgphusgpJog4NLGoP_nfyz25neeQCNcBGAsYHQ/s1600/1608055641102873-2.png",
+    "m3u": "http://203.81.84.130/hls/mwd_document/index.m3u8"
+  },
+  {
+    "title": "MWD Education",
+    "image": "https://lh3.googleusercontent.com/-nTb5yyGwUiQ/X9j7ZOwAvlI/AAAAAAAAATE/3BZv04h2Y_ADUI2LeCO3u3NuvZC8b-X3QCNcBGAsYHQ/s1600/1608055648649164-0.png",
+    "m3u": "http://203.81.84.130/hls/mwd_movie/index.m3u8"
+  },
+  {
+    "title": "MWD Family",
+    "image": "https://lh3.googleusercontent.com/-6MdCMeAJ2mA/X9j8qeluQ8I/AAAAAAAAATU/_6Nb2hjH-bYDPsbUjDap3Xj3Q2mZwuiQQCNcBGAsYHQ/s1600/1608055973886701-0.png",
+    "m3u": "http://203.81.84.130/hls/mwd_family/index.m3u8"
+  },
+  {
+    "title": "MWD Movie",
+    "image": "https://lh3.googleusercontent.com/-YAVr7yWH1nA/X9j0CxJxRmI/AAAAAAAAAR4/lzbGmBGs6GcwgeyMe07adLAb13jZ59EnQCNcBGAsYHQ/s1600/1608053767602222-8.png",
+    "m3u": "http://203.81.84.130/hls/mwd_serie/index.m3u8"
+  },
+  {
+    "title": "MWD Shopping",
+    "image": "https://lh3.googleusercontent.com/-5M2J5b6jta0/X9j0BwtniJI/AAAAAAAAAR0/QKtZcuq7g9g-7f96Pspk1ePVY5u_PoYWwCNcBGAsYHQ/s1600/1608053763635406-9.png",
+    "m3u": "http://203.81.84.130/hls/mwd_shopping/index.m3u8"
+  },
+  {
+    "title": "MWD Variety",
+    "image": "https://lh3.googleusercontent.com/-9kx1Z_0GHw0/X9j0JZueYhI/AAAAAAAAASY/Oc4vlSa38Mct5RFaNuUf4wDtqYl8OAbwQCNcBGAsYHQ/s1600/1608053794411438-0.png",
+    "m3u": "http://203.81.84.130/hls/mwd_variety/index.m3u8"
+  },
+  {
+    "title": "Mahar Bawdi",
+    "image": "https://lh3.googleusercontent.com/-7zo4hInIcVQ/X9j0EXlZ-8I/AAAAAAAAASA/qYp9F-MbswcIVXl6_CrG6MtSPhNW1_wQQCNcBGAsYHQ/s1600/1608053774562434-6.png",
+    "m3u": "https://foreveralive1-a.akamaihd.net/327fbb9692d74b8a9fd35e75359fa826/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8"
+  },
+  {
+    "title": "MVM Myanmar",
+    "image": "https://lh3.googleusercontent.com/-7t3DDzaa5i8/X9j0DttdjuI/AAAAAAAAAR8/Yx4_zid9rdodnhqhSV3znX7nCp3YnNwXgCNcBGAsYHQ/s1600/1608053771200214-7.png",
+    "m3u": "https://edge6a.v2h-cdn.com/appt7/MVM.stream_720p/playlist.m3u8"
+  }
+]
