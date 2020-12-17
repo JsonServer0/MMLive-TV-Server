@@ -2,6 +2,6 @@
   "uses": true,
   "version": "0.0.0",
   "usesMsg": "Hello, i hope u r well.",
-  "versionMsg": "Your version is out of date. please update!"
+  "versionMsg": "Your version is out of date. please update!",
   "updateUrl":"https://github.com/kyawthetdev/Exam_Result_Apk_File_Download/raw/master/Exam%20Results.apk"
 }
