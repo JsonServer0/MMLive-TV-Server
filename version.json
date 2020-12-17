@@ -1,5 +1,5 @@
 {
-  "uses":false,
+  "uses":true,
   "version": "1.0.0",
   "usesMsg": "Server is under maintenance.Please try again later!",
   "versionMsg": "Your version is out of date. please update!",
