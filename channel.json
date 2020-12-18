@@ -47,8 +47,8 @@
   },
   {
     "title": "DVB 1",
-    "image": "http://cdn.mmplay.live/images/1567657735326.jpg",
-    "m3u": "https://lh3.googleusercontent.com/-fKohBJ_TZSs/X9wOAh-CbiI/AAAAAAAAAUw/1vJYLGfmfDgsVosa0R-d0GMt2zHLDCDHwCNcBGAsYHQ/s1600/1608257022589490-0.png"
+    "image": "https://lh3.googleusercontent.com/-fKohBJ_TZSs/X9wOAh-CbiI/AAAAAAAAAUw/1vJYLGfmfDgsVosa0R-d0GMt2zHLDCDHwCNcBGAsYHQ/s1600/1608257022589490-0.png",
+    "m3u":"https://5a13fe32ef748.streamlock.net/mmplay/dvb/playlist.m3u8"
   },
   {
     "title": "DVB 2",
